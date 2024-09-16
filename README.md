@@ -7,9 +7,10 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/celsio-willian-8142861b5](linkedin.com/in/celsio-willian-8142861b5)
 
-- 💬 Ask me about **DAX, M language, SQL, MS FABRIC**
+- 💬 Ask me about **DAX, M language, SQL, MS FABRIC, Python**
 
-- 📫 How to reach me **sirwillian132@gmail.com**
+- 📫 How to reach me on e-mail: **sirwillian132@gmail.com**
+- 📱 How to reach me with a phone call **927300090**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
