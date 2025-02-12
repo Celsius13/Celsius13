@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reporting and Analysis Technician | Data Analysis and Visualization Trainer</h1>
+<h1 align="center">Hi 👋, I'm Senior Data Analyst | Data Analysis and Visualization Trainer | Consultant </h1>
 - 🔭 I create this dashboard [FIXNET - Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQ1OThjOGItYjY4ZS00ZDg1LWE2Y2ItZjZlMTdhNTQ4ZmE3IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
 
 - 🔭 I create this dashboard [KARREGA - Mobility Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZjZmM0NjktNWJmZS00NmIzLTgzOGMtYjlkMWQyZWFjZTA2IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
